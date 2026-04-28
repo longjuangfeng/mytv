@@ -1,0 +1,309 @@
+安徽频道,#genre#
+安徽卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
+安徽公共,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
+安徽经济生活,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
+安徽影视,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
+安徽农业·科教,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000013
+安徽综艺·体育,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
+安徽国际,http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000015
+央视,#genre#
+
+CCTV1,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
+CCTV2,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
+CCTV3,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000487
+CCTV4,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
+CCTV5,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
+CCTV5+,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
+CCTV6,http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005
+CCTV7,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485
+CCTV8,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000476
+CCTV9,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000478
+CCTV10,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000480
+CCTV11,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000583
+CCTV12,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000482
+CCTV13,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000602
+CCTV14,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483
+CCTV15,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000587
+CCTV16,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000625
+CCTV17,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580
+CCTV-4K超高清,http://10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+CETV-1,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000463
+CETV-2,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000251
+CETV-3,http://10.255.127.35:6060/gitv_live/G_CETV-3/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+CETV-4,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000252
+CETV-早期教育,http://10.255.127.35:6060/gitv_live/G_CETV-ZQJY-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+CCTV-4K超高清,http://aliyunoa.x3322.net:88/ysp.php?id=CCTV4K
+茶频道,http://10.255.126.3:8006/AHBKLIVE/ccfffb202e2e4795b85241af37abc8de
+快乐垂钓,http://10.255.126.3:8006/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
+四海钓鱼,http://10.255.126.3:8006/AHBKLIVE/11111120251124000000000000000001
+金鹰纪实,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000569
+环球旅游,http://10.255.126.3:8006/AHBKLIVE/11111120251124000000000000000003
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CCTV兵器科技,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053
+CCTV第一剧场,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000039
+CCTV风云剧场,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000041
+CCTV风云音乐,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000037
+CCTV风云足球,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000051
+CCTV高尔夫·网球,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049
+CCTV怀旧剧场,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043
+CCTV女性时尚,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000055
+CCTV央视台球,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047
+CCTV央视文化精品,http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057
+卫视,#genre#
+东方卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000654
+东方卫视,http://10.255.127.103:6410/gitv_live/G_DONGFANG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+东方卫视,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000263
+江苏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000648
+江苏卫视,http://10.255.127.103:6410/gitv_live/G_JIANGSU-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+江苏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000198
+浙江卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000650
+浙江卫视,http://10.255.127.103:6410/gitv_live/G_ZHEJIANG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+浙江卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000265
+北京卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000633
+北京卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000194
+天津卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000266
+河北卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000575
+山西卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000099
+山西卫视,http://10.255.127.35:6060/gitv_live/SXWS/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+内蒙古卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000098
+辽宁卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000472
+吉林卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000619
+吉林卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000091
+黑龙江卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000196
+东南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000075
+东南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000588
+厦门卫视,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000244
+江西卫视,http://10.255.127.35:6060/gitv_live/G_JIANGXI-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+江西卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000065
+山东卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000652
+山东卫视,http://10.255.127.103:6410/gitv_live/G_SHANDONG-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+山东卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000470
+河南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000085
+湖北卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000267
+湖南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000645
+湖南卫视,http://10.255.127.103:6410/gitv_live/G_HUNAN-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+湖南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000195
+广东卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000636
+广东卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000445
+深圳卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000638
+深圳卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000197
+广西卫视,http://10.255.127.35:6060/gitv_live/G_GUANGXI-HQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+广西卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000086
+海南卫视,http://10.255.126.3:8006/AHBKLIVE/12000000000000000000000000000003
+三沙卫视,http://10.255.127.35:6060/gitv_live/G_SANSHA-HQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+三沙卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000589
+重庆卫视,http://10.255.127.35:6060/gitv_live/G_CHONGQING-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+重庆卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000083
+四川卫视,http://10.255.127.35:6060/gitv_live/G_SICHUAN-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+四川卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643
+四川卫视,http://10.255.127.103:6410/gitv_live/G_SICHUAN-4K/index.m3u8?Playtype=1&gMac=&partnerCode=&m3u8_level=2
+四川卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000069
+贵州卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000577
+云南卫视,http://10.255.127.35:6060/gitv_live/G_YUNNAN-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+云南卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000060
+西藏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000639
+西藏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000100
+陕西卫视,http://10.255.127.35:6060/gitv_live/G_SHANXI-HQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+陕西卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000090
+甘肃卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000603
+甘肃卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000094
+青海卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000096
+宁夏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000640
+宁夏卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000082
+新疆卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000641
+新疆卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000097
+兵团卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000642
+兵团卫视,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000462
+海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8
+海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰香港,http://r.jdshipin.com/yDoTN
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视卫星,http://r.jdshipin.com/QFhCq
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳视澳门,https://cdn6.163189.xyz/163189/asam
+澳视澳门,http://r.jdshipin.com/n2YZI
+音乐,#genre#
+蹦迪,https://live.chinacert.cftest5.cn/huya/20432232
+蹦迪2,https://live.chinacert.cftest5.cn/huya/20432225
+爱吃桃子的猫,https://live.chinacert.cftest5.cn/huya/18501378
+小舞点歌台,https://live.chinacert.cftest5.cn/huya/15590571
+24小时听音乐,https://live.chinacert.cftest5.cn/huya/30483433
+糖豆豆听歌,https://live.chinacert.cftest5.cn/huya/25261191
+蹦迪,https://live.ottiptv.cc/huya/20432232
+蹦迪2,https://live.ottiptv.cc/huya/20432225
+爱吃桃子的猫,https://live.ottiptv.cc/huya/18501378
+小舞点歌台,https://live.ottiptv.cc/huya/15590571
+24小时听音乐,https://live.ottiptv.cc/huya/30483433
+糖豆豆听歌,https://live.ottiptv.cc/huya/25261191
+
+音乐台长,https://www.goodiptv.club/douyu/9629943
+  秋月剪水,https://www.goodiptv.club/douyu/9588891
+周杰伦颜老师,http://www.goodiptv.club/douyu/7537296
+张元英,https://www.goodiptv.club/huya/30765308
+竹叶的熊猫,https://www.goodiptv.club/douyu/3870925
+美兮超可爱的,https://www.goodiptv.club/douyu/20415
+掌上Club,https://www.goodiptv.club/douyu/1770806
+7师傅,http://www.goodiptv.club/douyu/17732
+爱爱小s,https://www.goodiptv.club/douyu/10308312
+女团社颜老师,http://www.goodiptv.club/douyu/11327316
+ 彼岸心属MADEIN伊藤美优,http://www.goodiptv.club/douyu/40471
+小姐姐Bie跑哦,http://www.goodiptv.club/douyu/8666258
+柳青瑶本尊,https://www.goodiptv.club/douyu/2281324
+ 王俊凯的资源组,https://www.goodiptv.club/douyu/8862216
+TV 音乐,https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+📎解说电影📎,#genre#
+小丑讲电影,https://live.ottiptv.cc/huya/16857432
+越哥说电影,https://live.ottiptv.cc/huya/15894162
+熊妹撩电影,https://live.ottiptv.cc/huya/15966357
+吾聊电影,https://live.ottiptv.cc/huya/16424416
+小川侃电影,https://live.ottiptv.cc/huya/15870999
+鱼丸说电影,https://live.ottiptv.cc/huya/16615910
+楚门聊电影,https://live.ottiptv.cc/huya/16507906
+扁豆看电影2,https://live.ottiptv.cc/huya/21059623
+涵哥评电影,https://live.ottiptv.cc/huya/16865726
+青年电影馆,https://live.ottiptv.cc/huya/21388479
+酱婶儿电影,https://live.ottiptv.cc/huya/24396474
+亮哥讲电影2,https://live.ottiptv.cc/huya/21059622
+大墨电影,https://live.ottiptv.cc/huya/29458834
+越哥说电影2,https://live.ottiptv.cc/huya/29982680
+爆裂电影2,https://live.ottiptv.cc/huya/29982678
+泡菜电影,https://live.ottiptv.cc/huya/25105448
+老巴电影,https://live.ottiptv.cc/huya/29340502
+鹏友说电影,https://live.ottiptv.cc/huya/29340612
+小丑电影,https://live.ottiptv.cc/huya/29869799
+莱德电影,https://live.ottiptv.cc/huya/25105529
+动画休闲,#genre#
+卡酷少儿,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000150
+金鹰卡通,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000151
+嘉佳卡通,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000448
+优漫卡通,http://10.255.127.35:6060/gitv_live/G_YOUMAN/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+山东教育卫视,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000248
+北京纪实科教,http://10.255.127.35:6060/gitv_live/G_BEIJINGJS-CQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+茶频道,http://10.255.126.3:8006/AHBKLIVE/ccfffb202e2e4795b85241af37abc8de
+金鹰纪实,http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000569
+快乐垂钓,http://10.255.126.3:8006/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
+四海钓鱼,http://10.255.126.3:8006/AHBKLIVE/11111120251124000000000000000001
+天元围棋,http://10.255.127.35:6060/gitv_live/G_TIANYUANWQ/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+环球旅游,http://10.255.126.3:8006/AHBKLIVE/11111120251124000000000000000003
+
+安徽地方台,#genre#
+
+滁州新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000081
+滁州科教,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000085
+亳州农村,http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
+蚌埠新闻,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
+蚌埠生活,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
+宿州科教,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
+宿州新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
+安庆新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000111
+安庆经济生活,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000109
+淮南新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000105
+六安综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000125
+六安社会生活,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000123
+池州新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000089
+黄山新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000117
+黄山文旅,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
+马鞍山新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120211018000000000000000015
+马鞍山科教生活,http://10.255.126.3:8006/AHBKLIVE/11111120211027000000000000000001
+芜湖新闻综合,http://10.255.126.3:8006/AHBKLIVE/11111120211018000000000000000011
+芜湖生活频道,http://10.255.126.3:8006/AHBKLIVE/11111120211112000000000000000005
+无为综合,http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000093
+
+
+春晚,#genre#
+    春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+    春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+    春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+    春晚1986,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+    春晚1987,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+    春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+    春晚1989,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+      春晚1991,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+        春晚1993,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+    春晚1994,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+    春晚1995,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+    春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+    春晚1997,https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+      春晚1999,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+    春晚2000,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+    春晚2001,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+    春晚2002,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+    春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+    春晚2004,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+    春晚2005,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+    春晚2006,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+    春晚2007,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+    春晚2008,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+    春晚2009,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+    春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+    春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+
+      春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+    春晚2014,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+    春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+
+       春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+        春晚2019,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+    春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+    春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+    春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+    
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
+2025年春晚,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+
+
+直播中国风景,#genre#
+广东车八岭国家自然保护区,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+青岛艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+北京密云古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+承德塞罕坝,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+沧州南大满仓湿地1,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+沧州南大满仓湿2,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+沧州运河公园,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+沧州南川老街,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+秦皇岛金梦海湾,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+秦皇岛老龙头景区,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+济南趵突泉,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+新疆天山天池,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+天津海河,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+深圳福田中心区,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+深圳福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+广州绿美白江湖,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+远眺广州绿美白江湖,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+邯郸武安京娘湖,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+邯郸京娘湖,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+哈尔滨雾江桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+敦煌鸣沙山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+吉林北册公园,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+吉林朱雀云顶远眺,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+福建南平玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+黄山光明顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+黄山始信峰,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+黄山始信新道,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+黄山卧云峰,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.
