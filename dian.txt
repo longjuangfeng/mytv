@@ -409,11 +409,7 @@ CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 发现之旅,http://123.113.205.253:3000/624878970
 
 卫视,#genre#
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$2甘电FD直
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+
 江苏卫视,http://111.122.65.136:1234/623899368
 江苏卫视,http://223.247.25.205:1234/623899368
 江苏卫视,http://8.135.27.147:1234/623899368
