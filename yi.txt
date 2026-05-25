@@ -70,8 +70,6 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 三沙卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8
 东南卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
 海峡卫视,https://stream1.freetv.fun/fbc713468d6d3346267686a60c139629b00a9d1fb8ea4c9678cdf305512bdf38.ctv
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
@@ -151,12 +149,9 @@ NewTV农业致富,http://120.210.193.151:8006/120000000058/GITV-AH-5/index.m3u8?
 NewTV怡伴健康,http://120.210.193.151:8006/120000000058/GITV-AH-6/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV精品体育,http://120.210.193.151:8006/120000000058/GITV-AH-7/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV精品纪录,http://120.210.193.151:8006/120000000058/GITV-AH-8/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
-NewTV家庭剧场,http://120.210.193.151:8006/120000000058/GITV-AH-9/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV精彩影院,http://120.210.193.151:8006/120000000058/GITV-AH-10/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
-NewTV超级电视剧,http://120.210.193.151:8006/120000000058/GITV-AH-11/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV超级电影,http://120.210.193.151:8006/120000000058/GITV-AH-12/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV热播精选,http://120.210.193.151:8006/120000000058/GITV-AH-15/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
-NewTV爱情喜剧,http://120.210.193.151:8006/120000000058/GITV-AH-18/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV金牌综艺,http://120.210.193.151:8006/120000000058/GITV-AH-19/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV精品综合,http://120.210.193.151:8006/120000000058/GITV-AH-20/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 NewTV少儿动漫,http://120.210.193.151:8006/120000000058/GITV-AH-23/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
@@ -172,15 +167,10 @@ NewTV旅行记录,http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
 芜湖县新闻,http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
 芜湖公共,http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
 淮南新闻,http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
-淮南民生,http://120.210.193.151:8006/120000001002/XMThnms/1.m3u8
-屯溪融媒,http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
 阜阳新闻,http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
 阜阳生活,http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
-阜阳教育,http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
-阜阳都市文艺,http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
 滁州新闻,http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
 滁州科教,http://120.210.193.151:8006/120000001002/XMTczkg/1.m3u8
-滁州公共,http://120.210.193.151:8006/120000001002/XMTczgg/1.m3u8
 界首新闻,http://120.210.193.151:8006/120000001002/XMTjsxw/1.m3u8
 阜南新闻,http://120.210.193.151:8006/120000001002/XMTfnxw/1.m3u8
 临泉新闻,http://120.210.193.151:8006/120000001002/XMTlqxw/1.m3u8
@@ -206,14 +196,11 @@ NewTV旅行记录,http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
 濉溪综合频道,http://120.210.193.151:8006/120000001002/XMTsxzh/1.m3u8
 安庆新闻综合,http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
 安庆经济生活,http://120.210.193.151:8006/120000001002/XMTaqjjsh/1.m3u8
-岳西新闻综合,http://120.210.193.151:8006/120000001002/XMTyxxw/1.m3u8
 潜山综合,http://120.210.193.151:8006/120000001002/XMTqszh/1.m3u8
 桐城综合,http://120.210.193.151:8006/120000001002/XMTtcxw/1.m3u8
 太湖新闻综合,http://120.210.193.151:8006/120000001002/XMTthxw/1.m3u8
 铜陵新闻综合,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
-铜陵教育科技,http://120.210.193.151:8006/120000001002/XMTtljy/1.m3u8
 义安新闻综合,http://120.210.193.151:8006/120000001002/XMTyaxw/1.m3u8
-黄山文旅频道,http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
 黄山新闻综合,http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
 歙县综合,http://120.210.193.151:8006/120000001002/XMTshxzh/1.m3u8
 休宁新闻综合,http://120.210.193.151:8006/120000001002/XMTxnxw/1.m3u8
@@ -222,8 +209,6 @@ NewTV旅行记录,http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
 宿州新闻综合,http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
 宿州科教生活,http://120.210.193.151:8006/120000001002/XMTszkj/1.m3u8
 灵璧新闻综合,http://120.210.193.151:8006/120000001002/XMTlbxw/1.m3u8
-灵璧文旅经济,http://120.210.193.151:8006/120000001002/XMTlbwl/1.m3u8
-萧县新闻综合,http://120.210.193.151:8006/120000001002/XMTxxxw/1.m3u8
 泗县新闻频道,http://120.210.193.151:8006/120000001002/XMTsxxw/1.m3u8
 霍邱新闻综合,http://120.210.193.151:8006/120000001002/XMThqxw/1.m3u8
 亳州农村频道,http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
@@ -241,14 +226,12 @@ NewTV旅行记录,http://120.210.193.151:8006/120000000058/GITV-AH-29/index.m3u8
 蹦迪2,https://live.ottiptv.cc/huya/20432225
 爱吃桃子的猫,https://live.ottiptv.cc/huya/18501378
 小舞点歌台,https://live.ottiptv.cc/huya/15590571
-24小时听音乐,https://live.ottiptv.cc/huya/30483433
 糖豆豆听歌,https://live.ottiptv.cc/huya/25261191
 
 音乐台长,https://www.goodiptv.club/douyu/9629943
 秋月剪水,https://www.goodiptv.club/douyu/9588891
 竹叶的熊猫,https://www.goodiptv.club/douyu/3870925
 美兮超可爱的,https://www.goodiptv.club/douyu/20415
-掌上Club,https://www.goodiptv.club/douyu/1770806
 7师傅,http://www.goodiptv.club/douyu/17732
 爱爱小s,https://www.goodiptv.club/douyu/10308312
  彼岸心属MADEIN伊藤美优,http://www.goodiptv.club/douyu/40471
