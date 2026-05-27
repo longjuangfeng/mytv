@@ -69,7 +69,7 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 陕西卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
 三沙卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8
 东南卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
-海峡卫视,https://stream1.freetv.fun/fbc713468d6d3346267686a60c139629b00a9d1fb8ea4c9678cdf305512bdf38.ctv
+
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
