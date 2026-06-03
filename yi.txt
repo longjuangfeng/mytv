@@ -71,16 +71,6 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 东南卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
 
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰香港,http://r.jdshipin.com/yDoTN
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视澳门,http://r.jdshipin.com/n2YZI
@@ -90,8 +80,6 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 动物世界,https://wildearth-plex.amagi.tv/master.m3u8
 CETV1,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
 CETV2,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8
-CETV3,http://60.4.30.55:8077/udp/239.253.93.164:6440
-CETV3,http://107.150.60.122/live/cetv3.m3u8
 CETV4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8
 山东教育卫视,http://120.210.193.151:8006/120000000058/G_SDETV/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 金色学堂,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
