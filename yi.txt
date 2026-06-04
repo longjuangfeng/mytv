@@ -12,24 +12,24 @@
 
 央视,#genre#
 
-CCTV1,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV1hd4mc/index.m3u8
-CCTV2,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV2hd8m/index.m3u8
-CCTV3,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV3hd/index.m3u8
-CCTV4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV4sd/index.m3u8
-CCTV5,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV5hd/index.m3u8
-CCTV5+,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV5hd8m/index.m3u8
-CCTV6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV6hd8m/index.m3u8
-CCTV7,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV7hd8m/index.m3u8
-CCTV8,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV8hd8m/index.m3u8
-CCTV9,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV9hd4mc/index.m3u8
-CCTV10,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-CCTV10hd/index.m3u8
-CCTV11,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV11/index.m3u8
-CCTV12,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV12hd8m/index.m3u8
-CCTV13,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV13xwhd8m/index.m3u8
-CCTV14,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTVsehd8m/index.m3u8
-CCTV15,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTVyysd4mc/index.m3u8
-CCTV16,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV16hd8m/index.m3u8
-CCTV17,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/CCTV17hd4mc/index.m3u8
+CCTV1,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+CCTV2,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+CCTV3,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+CCTV4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+CCTV5,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
+CCTV5+,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+CCTV6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+CCTV7,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+CCTV8,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+CCTV9,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
+CCTV10,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+CCTV11,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+CCTV12,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+CCTV13,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+CCTV14,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+CCTV15,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+CCTV16,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+CCTV17,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 中国天气,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
@@ -333,5 +333,4 @@ M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/li
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 3/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-春晚2026,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
-春晚2026,https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
+
