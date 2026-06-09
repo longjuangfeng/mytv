@@ -98,15 +98,7 @@ CETV4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy
 超级体育,http://120.210.193.151:8006/120000000058/GITV-AH-1/GITV-AH-1.m3u8
 精彩赛事,http://120.210.193.151:8006/120000000058/GITV-AH-4/GITV-AH-4.m3u8
 精品体育,http://120.210.193.151:8006/120000000058/GITV-AH-7/GITV-AH-7.m3u8
-七龙珠,https://live.metshop.top/huya/11601966
-动画大师姐,https://goodiptv.club/douyu/9742136
-动画魂,https://goodiptv.club/douyu/9393242
-南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-海绵宝宝,https://live.metshop.top/douyu/3949681
-漫尼动画,https://goodiptv.club/douyu/10364790
-猫和老鼠,https://live.metshop.top/huya/11352879
-立秋动画,https://goodiptv.club/douyu/10351891
-EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+
 游戏风云,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 数字频道,#genre#
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
