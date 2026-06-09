@@ -105,24 +105,14 @@ CCTV15,http://124.77.202.8:49155/673168223
 CCTV15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=f02aee9f070d89771b88e76c651e2270&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260609170044&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=39.98.81.170&SecurityKey=20260609170044&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cc0cf1afcc8194029ec000ba010029f7&ddCalcu=7cfcv90a2ca0fa011a0facbc080109c4e092&sv=10004&ct=android
 CCTV15,http://124.77.181.86:3566/673168223
 CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
-CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+
 CCTV17,http://124.223.82.228:89/673168256
 CCTV17,http://124.77.202.8:49155/673168256
 CCTV17,http://124.77.181.86:3566/673168256
 CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=d56ca0c62905a17ae110714b91eabbe2&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260609170045&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=39.98.81.170&SecurityKey=20260609170045&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=85d7dd5d9a636a7451a1cf3f0da6c15f&ddCalcu=f855v1dac7a6daadd50df93af6c316aa1754&sv=10004&ct=android
 CCTV17,http://182.61.15.47:80/673168256
 CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
-兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
-风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
-风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
-风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
-怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
-第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
-女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
-世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
-高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
-央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
+
 老故事,http://124.77.202.8:49155/884121956
 老故事,http://182.61.15.47:80/884121956
 老故事,http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=24fc63355c2962a4fa4943f4fcf1a492&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260609170047&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=39.98.82.147&SecurityKey=20260609170047&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ab9b0f091db8345872beb8d0f95ca488&ddCalcu=8a8bv49aablc0a5f90f901dd8bb8e3b42578&sv=10004&ct=android
@@ -285,13 +275,8 @@ CHC影迷电影,http://124.77.181.86:3566/952383261
 抗战经典影片,http://182.61.15.47:80/617432318
 抗战经典影片,http://124.223.82.228:89/617432318
 抗战经典影片,http://124.77.181.86:3566/617432318
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://cdn6.163189.xyz/163189/fct
-翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+
+
 凤凰卫视中文台,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视资讯台,http://cdn6.163189.xyz/163189/fhzx
 凤凰卫视香港台,http://cdn6.163189.xyz/163189/fhhk
@@ -304,8 +289,7 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=23
 睛彩篮球,http://feilong123.vip/409990236/iptv/gdy.php?id=2
 睛彩广场舞,http://47.100.209.208:8100/TVOD/3000000020000011523.m3u8?token=8520
-劲爆体育,http://173.208.212.130:8181/1080p/jbty.m3u8
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+
 快乐垂钓,http://124.77.202.8:49155/961930263
 快乐垂钓,http://182.61.15.47:80/961930263
 快乐垂钓,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=67cb7c2897445436d57b97acedfa8729&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260609170111&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.70.128&SecurityKey=20260609170111&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=69fd61e58cfb6079f3309b0609d07e3e&ddCalcu=e639vefa7da06ad19e05680cbf9b063037f9&sv=10004&ct=android
@@ -476,11 +460,6 @@ M2o 音乐,https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/li
 小丑电影,https://live.ottiptv.cc/huya/29869799
 莱德电影,https://live.ottiptv.cc/huya/25105529
 
-卫视频道,#genre#
-
-凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 春晚,#genre#
