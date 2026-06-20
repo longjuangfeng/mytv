@@ -69,11 +69,12 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 陕西卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
 三沙卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8
 东南卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
+
+凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
-凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰香港,http://r.jdshipin.com/yDoTN
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视卫星,http://r.jdshipin.com/QFhCq
