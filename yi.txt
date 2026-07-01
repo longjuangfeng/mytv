@@ -71,18 +71,11 @@ CCTV-4K 超高清,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3
 东南卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
 
 
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
-凤凰香港,http://r.jdshipin.com/yDoTN
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
+
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 体育动画,#genre#
