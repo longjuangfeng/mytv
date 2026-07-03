@@ -1,192 +1,41 @@
 央视频道,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://182.61.15.163:80/608807420
-CCTV1,http://8.135.27.147:1234/608807420
-CCTV1,http://110.154.192.30:7788/608807420
-CCTV1,http://175.178.243.33:8787/608807420
-CCTV1,http://116.236.204.18:1234/608807420
-CCTV1,http://182.61.15.47:80/608807420
-CCTV1,http://101.6.130.52:1234/608807420
-CCTV1,http://8.153.110.51:3020/608807420
-CCTV1,http://111.231.6.102:1234/608807420
-CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
 CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV2,http://182.61.15.163:80/631780532
-CCTV2,http://110.154.192.30:7788/631780532
-CCTV2,http://111.231.6.102:1234/631780532
-CCTV2,http://116.236.204.18:1234/631780532
-CCTV2,http://175.178.243.33:8787/631780532
-CCTV2,http://8.153.110.51:3020/631780532
-CCTV2,http://101.6.130.52:1234/631780532
-CCTV2,http://182.61.15.47:80/631780532
-CCTV2,http://8.135.27.147:1234/631780532
-CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV3,http://182.61.15.163:80/624878271
-CCTV3,http://175.178.243.33:8787/624878271
-CCTV3,http://116.236.204.18:1234/624878271
-CCTV3,http://8.153.110.51:3020/624878271
-CCTV3,http://8.135.27.147:1234/624878271
-CCTV3,http://182.61.15.47:80/624878271
-CCTV3,http://101.6.130.52:1234/624878271
-CCTV3,http://111.231.6.102:1234/624878271
-CCTV3,http://110.154.192.30:7788/624878271
-CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://182.61.15.163:80/631780421
-CCTV4,http://8.153.110.51:3020/631780421
-CCTV4,http://116.236.204.18:1234/631780421
-CCTV4,http://111.231.6.102:1234/631780421
-CCTV4,http://110.154.192.30:7788/631780421
-CCTV4,http://8.135.27.147:1234/631780421
-CCTV4,http://175.178.243.33:8787/631780421
-CCTV4,http://182.61.15.47:80/631780421
-CCTV4,http://101.6.130.52:1234/631780421
-CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,http://182.61.15.163:80/641886683
-CCTV5,http://116.236.204.18:1234/641886683
-CCTV5,http://111.231.6.102:1234/641886683
-CCTV5,http://182.61.15.47:80/641886683
-CCTV5,http://175.178.243.33:8787/641886683
-CCTV5,http://110.154.192.30:7788/641886683
-CCTV5,http://101.6.130.52:1234/641886683
-CCTV5,http://8.135.27.147:1234/641886683
-CCTV5,http://8.153.110.51:3020/641886683
-CCTV5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
 CCTV5+,http://182.61.15.163:80/641886773
 CCTV5+,http://182.61.15.47:80/641886773
-CCTV5+,http://110.154.192.30:7788/641886773
-CCTV5+,http://8.135.27.147:1234/641886773
-CCTV5+,http://8.153.110.51:3020/641886773
-CCTV5+,http://111.231.6.102:1234/641886773
-CCTV5+,http://101.6.130.52:1234/641886773
-CCTV5+,http://175.178.243.33:8787/641886773
-CCTV5+,http://116.236.204.18:1234/641886773
-CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
 CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV6,http://182.61.15.163:80/624878396
 CCTV6,http://182.61.15.47:80/624878396
-CCTV6,http://8.135.27.147:1234/624878396
-CCTV6,http://110.154.192.30:7788/624878396
-CCTV6,http://116.236.204.18:1234/624878396
-CCTV6,http://8.153.110.51:3020/624878396
-CCTV6,http://111.231.6.102:1234/624878396
-CCTV6,http://101.6.130.52:1234/624878396
-CCTV6,http://175.178.243.33:8787/624878396
-CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
 CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV7,http://182.61.15.163:80/673168121
-CCTV7,http://8.153.110.51:3020/673168121
-CCTV7,http://101.6.130.52:1234/673168121
-CCTV7,http://116.236.204.18:1234/673168121
-CCTV7,http://175.178.243.33:8787/673168121
-CCTV7,http://8.135.27.147:1234/673168121
-CCTV7,http://182.61.15.47:80/673168121
-CCTV7,http://111.231.6.102:1234/673168121
-CCTV7,http://110.154.192.30:7788/673168121
-CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV8,http://182.61.15.163:80/624878356
-CCTV8,http://175.178.243.33:8787/624878356
-CCTV8,http://116.236.204.18:1234/624878356
-CCTV8,http://111.231.6.102:1234/624878356
-CCTV8,http://8.135.27.147:1234/624878356
-CCTV8,http://182.61.15.47:80/624878356
-CCTV8,http://8.153.110.51:3020/624878356
-CCTV8,http://101.6.130.52:1234/624878356
-CCTV8,http://110.154.192.30:7788/624878356
-CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://182.61.15.163:80/673168140
-CCTV9,http://110.154.192.30:7788/673168140
-CCTV9,http://8.153.110.51:3020/673168140
-CCTV9,http://175.178.243.33:8787/673168140
-CCTV9,http://111.231.6.102:1234/673168140
-CCTV9,http://101.6.130.52:1234/673168140
-CCTV9,http://8.135.27.147:1234/673168140
-CCTV9,http://182.61.15.47:80/673168140
-CCTV9,http://116.236.204.18:1234/673168140
-CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10,http://182.61.15.163:80/624878405
-CCTV10,http://182.61.15.47:80/624878405
-CCTV10,http://111.231.6.102:1234/624878405
-CCTV10,http://116.236.204.18:1234/624878405
-CCTV10,http://101.6.130.52:1234/624878405
-CCTV10,http://8.135.27.147:1234/624878405
-CCTV10,http://110.154.192.30:7788/624878405
-CCTV10,http://175.178.243.33:8787/624878405
-CCTV10,http://8.153.110.51:3020/624878405
-CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
 CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV11,http://182.61.15.163:80/667987558
-CCTV11,http://111.231.6.102:1234/667987558
-CCTV11,http://8.135.27.147:1234/667987558
-CCTV11,http://182.61.15.47:80/667987558
-CCTV11,http://110.154.192.30:7788/667987558
-CCTV11,http://8.153.110.51:3020/667987558
-CCTV11,http://101.6.130.52:1234/667987558
-CCTV11,http://116.236.204.18:1234/667987558
-CCTV11,http://175.178.243.33:8787/667987558
-CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV12,http://182.61.15.163:80/673168185
-CCTV12,http://8.135.27.147:1234/673168185
-CCTV12,http://101.6.130.52:1234/673168185
-CCTV12,http://110.154.192.30:7788/673168185
-CCTV12,http://111.231.6.102:1234/673168185
-CCTV12,http://8.153.110.51:3020/673168185
-CCTV12,http://175.178.243.33:8787/673168185
-CCTV12,http://182.61.15.47:80/673168185
-CCTV12,http://116.236.204.18:1234/673168185
-CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://182.61.15.163:80/608807423
-CCTV13,http://116.236.204.18:1234/608807423
-CCTV13,http://182.61.15.47:80/608807423
-CCTV13,http://110.154.192.30:7788/608807423
-CCTV13,http://8.153.110.51:3020/608807423
-CCTV13,http://175.178.243.33:8787/608807423
-CCTV13,http://101.6.130.52:1234/608807423
-CCTV13,http://8.135.27.147:1234/608807423
-CCTV13,http://111.231.6.102:1234/608807423
-CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV14,http://182.61.15.163:80/624878440
-CCTV14,http://116.236.204.18:1234/624878440
-CCTV14,http://8.153.110.51:3020/624878440
-CCTV14,http://110.154.192.30:7788/624878440
-CCTV14,http://111.231.6.102:1234/624878440
-CCTV14,http://175.178.243.33:8787/624878440
-CCTV14,http://182.61.15.47:80/624878440
-CCTV14,http://8.135.27.147:1234/624878440
-CCTV14,http://101.6.130.52:1234/624878440
-CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
 CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV15,http://182.61.15.163:80/673168223
-CCTV15,http://182.61.15.47:80/673168223
-CCTV15,http://111.231.6.102:1234/673168223
-CCTV15,http://116.236.204.18:1234/673168223
-CCTV15,http://110.154.192.30:7788/673168223
-CCTV15,http://175.178.243.33:8787/673168223
-CCTV15,http://101.6.130.52:1234/673168223
-CCTV15,http://8.135.27.147:1234/673168223
-CCTV15,http://8.153.110.51:3020/673168223
-CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
 CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV17,http://182.61.15.163:80/673168256
-CCTV17,http://116.236.204.18:1234/673168256
-CCTV17,http://101.6.130.52:1234/673168256
-CCTV17,http://8.153.110.51:3020/673168256
-CCTV17,http://111.231.6.102:1234/673168256
-CCTV17,http://175.178.243.33:8787/673168256
-CCTV17,http://8.135.27.147:1234/673168256
-CCTV17,http://110.154.192.30:7788/673168256
-CCTV17,http://182.61.15.47:80/673168256
-CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
 风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
@@ -628,126 +477,3 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 中国天气,http://182.61.15.47:80/959986621
 中国天气,http://175.178.243.33:8787/959986621
 中国天气,http://110.154.192.30:7788/959986621
-
-新闻广播,#genre#
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-第一财经 FM97.7,http://live.xmcdn.com/live/56/64.m3u8
- 环球信息 FM90.5,http://sk.cri.cn/905.m3u8
-环球资讯,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
-北京新闻广播FM100.6,http://live.xmcdn.com/live/91/64.m3u8
-江苏新闻,http://live.xmcdn.com/live/534/64.m3u8
-浙江之声 FM88,http://live.xmcdn.com/live/633/64.m3u8
-福建新闻 FM103.6,http://live.xmcdn.com/live/792/64.m3u8
-河南新闻,https://stream.hndt.com/live/xinwen/playlist.m3u8
-河北综合,https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
-辽宁综合广播FM102.9,http://ls.qingting.fm/live/23793.m3u8
-四川新闻综合 FM98.1,http://ls.qingting.fm/live/4906.m3u8
-陕西新闻 FM106.6,http://radio.sxtvs.com/radio/news.mp3
-山西综合 FM90.4,http://live.xmcdn.com/live/893/64.m3u8
-甘肃新闻综合 FM96.1,http://live.xmcdn.com/live/287/64.m3u8
-重庆新闻 FM96.8,http://live.xmcdn.com/live/128/64.m3u8
-宁波新闻 FM92.0,http://ls.qingting.fm/live/1138.m3u8
-温州新闻 FM94.9,http://live.xmcdn.com/live/655/64.m3u8
-苏州新闻,https://lhttp.qingting.fm/live/2801/64k.mp3
-无锡新闻 FM93.7,http://live.xmcdn.com/live/556/64.m3u8
-沈阳新闻 FM104.5,http://live.xmcdn.com/live/328/64.m3u8
-西安新闻 FM95.0,http://stream3.xiancity.cn/1/sd/live.m3u8
-石家庄新闻广播 FM88.2,http://live.xmcdn.com/live/502/64.m3u8
-郑州新闻广播 FM98.6,http://live.xmcdn.com/live/470/64.m3u8
-
-交通广播,#genre#
-安徽交通,https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
-北京交通 FM103.9,http://live.xmcdn.com/live/93/64.m3u8
-上海交通台 FM105.7,http://live.xmcdn.com/live/59/64.m3u8
-江苏交通 FM101.1,http://live.xmcdn.com/live/536/64.m3u8
-浙江交通之声 FM93,http://live.xmcdn.com/live/634/64.m3u8
-广东羊城交通 FM105.2,http://live.xmcdn.com/live/248/64.m3u8
-深圳交通,https://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
-福建交通 FM100.7,http://live.xmcdn.com/live/790/64.m3u8
-山东交通,https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-河南交通,https://stream.hndt.com/live/jiaotong/playlist.m3u8
-河北交通,https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
-辽宁交通广播FM97.5,http://ls.qingting.fm/live/23801.m3u8
-四川交通 FM101.7,http://live.xmcdn.com/live/752/64.m3u8
-陕西汽车调频 FM89.6,http://radio.sxtvs.com/radio/encnomy.mp3
-山西交通频道 FM88.0,http://live.xmcdn.com/live/885/64.m3u8
-甘肃交通广播,https://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
-贵州交通 FM95.2,http://live.xmcdn.com/live/362/64.m3u8
-重庆交通 FM95.5,http://live.xmcdn.com/live/130/64.m3u8
-广西交通 FM100.3,http://live.xmcdn.com/live/304/64.m3u8
-宁波交通 FM93.9,http://ls.qingting.fm/live/1140.m3u8
-温州交通 FM103.9,http://live.xmcdn.com/live/641/64.m3u8
-苏州交通 FM104.8,http://live.xmcdn.com/live/64/64.m3u8
-无锡交通 FM106.9,http://live.xmcdn.com/live/560/64.m3u8
-沈阳交通 FM98.6,http://live.xmcdn.com/live/329/64.m3u8
-西安交通 FM104.3,http://stream3.xiancity.cn/5/sd/live.m3u8
-石家庄交通广播 FM94.6,http://live.xmcdn.com/live/505/64.m3u8
-
-音乐广播,#genre#
-北京音乐,http://live.xmcdn.com/live/95/64.m3u8
-上海动感101 FM101.7,http://live.xmcdn.com/live/53/64.m3u8
-上海经典947 FM94.7,http://live.xmcdn.com/live/54/64.m3u8
-广东音乐之声 FM99.3,http://live.xmcdn.com/live/74/64.m3u8
-江苏经典流行音乐,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-浙江动听(音乐调频) FM96.8,http://live.xmcdn.com/live/637/64.m3u8
-山东音乐 FM99.1,http://live.xmcdn.com/live/794/64.m3u8
-河南音乐,https://stream.hndt.com/live/yinyue/playlist.m3u8
-河北音乐,https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
-辽宁文艺广播FM95.9,http://ls.qingting.fm/live/23795.m3u8
-四川岷江音乐 FM95.5,http://ls.qingting.fm/live/1110.m3u8
-山西音乐 FM94,http://live.xmcdn.com/live/886/64.m3u8
-安徽音乐,https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-江西音乐,https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
-贵州音乐,https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-云南音乐 FM97,http://live.xmcdn.com/live/904/64.m3u8
-重庆音乐 FM88.1,http://live.xmcdn.com/live/131/64.m3u8
-广西音乐台 FM95.0,http://live.xmcdn.com/live/301/64.m3u8
-苏州音乐 动听948 FM94.8,http://live.xmcdn.com/live/65/64.m3u8
-西安音乐 FM93.1,http://stream3.xiancity.cn/4/sd/live.m3u8
-石家庄音乐广播 FM106.7,http://live.xmcdn.com/live/504/64.m3u8
-青岛音乐体育,http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
-80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
-AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
-AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
-AsiaFM 亚洲热歌,http://hot.asiafm.net:8000/asiafm
-AsiaFM 亚洲音乐,http://asiafm.vip:8000/fm965
-
-私家车广播,#genre#
-福建私家车 FM98.7,http://live.xmcdn.com/live/793/64.m3u8
-四川私家车 FM92.5,http://live.xmcdn.com/live/1646/64.m3u8
-河南私家车999,https://stream.hndt.com/live/sijiache/playlist.m3u8
-深圳私家车 FM94.2,http://live.xmcdn.com/live/265/64.m3u8
-无锡私家车,https://lhttp.qingting.fm/live/2779/64k.mp3
-宁波私家车,https://lhttp.qingting.fm/live/1142/64k.mp3
-温州私家车音乐 FM100.3,http://live.xmcdn.com/live/642/64.m3u8
-西安私家车,https://lhttp.qingting.fm/live/4018/64k.mp3
-宁波私家车音乐台 FM104.7,http://ls.qingting.fm/live/1142.m3u8
-
-戏曲广播,#genre#
-安徽戏曲,https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
-河南戏曲,https://stream.hndt.com/live/yule/playlist.m3u8
-上海戏剧曲艺 AM1197,http://live.xmcdn.com/live/60/64.m3u8
-苏州戏曲 AM846,http://live.xmcdn.com/live/576/64.m3u8
-
-音乐,#genre#
-音乐台长,https://www.goodiptv.club/douyu/9629943
-  秋月剪水,https://www.goodiptv.club/douyu/9588891
-竹叶的熊猫,https://www.goodiptv.club/douyu/3870925
-美兮超可爱的,https://www.goodiptv.club/douyu/20415
-7师傅,http://www.goodiptv.club/douyu/17732
-爱爱小s,https://www.goodiptv.club/douyu/10308312
- 彼岸心属MADEIN伊藤美优,http://www.goodiptv.club/douyu/40471
-小姐姐Bie跑哦,http://www.goodiptv.club/douyu/8666258
-柳青瑶本尊,https://www.goodiptv.club/douyu/2281324
- 王俊凯的资源组,https://www.goodiptv.club/douyu/8862216
-TV 音乐,https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-
