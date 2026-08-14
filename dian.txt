@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://60.168.105.165:5008/608807420
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://27.12.12.40:1234/608807420
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://42.94.210.22:7788/608807420
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://116.52.173.67:1234/608807420
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=ef9db3014b335813a344d21d068be34e&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260814092043&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260814092043&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1ed5d9e252e9fdcecaed933ef901197a&ddCalcu=a17ev9da15y1da099ef2e5323e99dfedacce&sv=10004&ct=android
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=4f7cf5608d51be860d93b05cd3b02e9c&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260814102041&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.188.159&SecurityKey=20260814102041&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d8dc85165397e5717efc67de0ab17ad7&ddCalcu=7dd8vada7cy18ab5a106e5d37967cef5e771&sv=10004&ct=android
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://116.236.204.18:1234/631780532
 #EXTINF:-1 group-title="央视频道",CCTV2
