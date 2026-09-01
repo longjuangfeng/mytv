@@ -101,7 +101,7 @@ http://223.247.2.248:18001/rtp/238.1.79.49:4504
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Gansu.png",甘肃卫视
 http://223.247.2.248:18001/rtp/238.1.79.36:4400
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Neimeng.png",内蒙古卫视
-http://223.247.2.248:18001/rtp/238.1.78.103:6696
+http://223.247.2.248:18001/rtp/238.1.78.153:7096
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Ningxia.png",宁夏卫视
 http://223.247.2.248:18001/rtp/238.1.79.4:4144
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Qinghai.png",青海卫视
@@ -109,15 +109,15 @@ http://223.247.2.248:18001/rtp/238.1.78.102:6688
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi_.png",山西卫视
 http://223.247.2.248:18001/rtp/238.1.78.95:6632
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi.png",陕西卫视
-http://223.247.2.248:18001/rtp/238.1.78.88:6576
+http://223.247.2.248:18001/rtp/238.1.78.157:7128
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yunnan.png",云南卫视
 http://223.247.2.248:18001/rtp/238.1.78.89:6584
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongnan.png",东南卫视
 http://223.247.2.248:18001/rtp/238.1.78.22:6104
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xizang.png",西藏卫视
-http://223.247.2.248:18001/rtp/238.1.78.101:6680
+http://223.247.2.248:18001/rtp/238.1.79.1:4120
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xinjiang.png",新疆卫视
-http://223.247.2.248:18001/rtp/238.1.78.110:6752
+http://223.247.2.248:18001/rtp/238.1.79.2:4128
 #EXTINF:-1 group-title="卫视" tvg-logo="",厦门卫视
 http://223.247.2.248:18001/rtp/238.1.78.246:7840
 #EXTINF:-1 group-title="卫视" tvg-logo="",三沙卫视
@@ -463,7 +463,7 @@ http://36.63.235.35:8888/rtp/238.1.79.49:4504
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Gansu.png",甘肃卫视
 http://36.63.235.35:8888/rtp/238.1.79.36:4400
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Neimeng.png",内蒙古卫视
-http://36.63.235.35:8888/rtp/238.1.78.103:6696
+http://36.63.235.35:8888/rtp/238.1.78.153:7096
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Ningxia.png",宁夏卫视
 http://36.63.235.35:8888/rtp/238.1.79.4:4144
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Qinghai.png",青海卫视
@@ -471,15 +471,15 @@ http://36.63.235.35:8888/rtp/238.1.78.102:6688
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi_.png",山西卫视
 http://36.63.235.35:8888/rtp/238.1.78.95:6632
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi.png",陕西卫视
-http://36.63.235.35:8888/rtp/238.1.78.88:6576
+http://36.63.235.35:8888/rtp/238.1.78.157:7128
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yunnan.png",云南卫视
 http://36.63.235.35:8888/rtp/238.1.78.89:6584
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongnan.png",东南卫视
 http://36.63.235.35:8888/rtp/238.1.78.22:6104
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xizang.png",西藏卫视
-http://36.63.235.35:8888/rtp/238.1.78.101:6680
+http://36.63.235.35:8888/rtp/238.1.79.1:4120
 #EXTINF:-1 group-title="卫视" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xinjiang.png",新疆卫视
-http://36.63.235.35:8888/rtp/238.1.78.110:6752
+http://36.63.235.35:8888/rtp/238.1.79.2:4128
 #EXTINF:-1 group-title="卫视" tvg-logo="",厦门卫视
 http://36.63.235.35:8888/rtp/238.1.78.246:7840
 #EXTINF:-1 group-title="卫视" tvg-logo="",三沙卫视
